@@ -1,0 +1,11 @@
+kalkf.pas
+info1.txt
+FreePascal
+
+calc.cs
+info1.txt
+C#
+
+task1.pas
+info1.txt
+FreePascal

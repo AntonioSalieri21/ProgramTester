@@ -1,0 +1,9 @@
+Name=ptc
+Version=3.0.0
+Checksum=1198546660
+CPU=i386
+OS=win32
+FPMakeOptions=-o -Ur -o -Xs -o -O2 -o -n -o -di386 -o -dRELEASE -o -XX -o -CX
+Depends=rtl,hermes|1198546660,opengl|1198546656,fcl-base|1198546630,rtl-console|1198546658
+NeedLibC=N
+FPMakeAddIn=N

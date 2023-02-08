@@ -1,0 +1,151 @@
+﻿C:\Users\programmer\Desktop\man\PRGFM\PRGthird\PRG\bin\Release\info1.txt
+C:\Users\programmer\Desktop\man\PRGFM\PRGthird\PRG\bin\Release\4\kalkf.pas
+Compilation Error
+
+
+C:\Users\programmer\Desktop\man\PRGFM\PRGthird\PRG\bin\Release\info1.txt
+C:\Users\programmer\Desktop\man\PRGFM\PRGthird\PRG\bin\Release\3\kalkf.pas
+Compilation Error
+
+
+C:\Users\programmer\Desktop\man\PRGFM\PRGthird\PRG\bin\Release\info1.txt
+C:\Users\programmer\Desktop\man\PRGFM\PRGthird\PRG\bin\Release\2\kalkf.pas
+Тест 1 пройдений 
+Тест 2 пройдений 
+Тест 3 пройдений 
+Тест 4 пройдений 
+
+
+
+C:\Users\programmer\Desktop\man\PRGFM\PRGthird\PRG\bin\Release\info2.txt
+C:\Users\programmer\Desktop\man\PRGFM\PRGthird\PRG\bin\Release\4\task1.pas
+Тест 1 пройдений 
+Тест 2 пройдений 
+Тест 3 пройдений 
+Тест 4 пройдений 
+
+
+
+C:\Users\programmer\Desktop\man\PRGFM\PRGthird\PRG\bin\Release\info2.txt
+C:\Users\programmer\Desktop\man\PRGFM\PRGthird\PRG\bin\Release\3\task1.pas
+Тест 1 не пройдений 
+Тест 2 не пройдений 
+Тест 3 не пройдений 
+Тест 4 не пройдений 
+
+
+
+C:\Users\programmer\Desktop\man\PRGFM\PRGthird\PRG\bin\Release\info2.txt
+C:\Users\programmer\Desktop\man\PRGFM\PRGthird\PRG\bin\Release\2\task1.pas
+Тест 1 пройдений 
+Тест 2 пройдений 
+Тест 3 пройдений 
+Тест 4 пройдений 
+
+
+
+C:\Users\programmer\source\repos\TESTERC\TESTERC\bin\Release2\info1.txt
+C:\Users\programmer\source\repos\TESTERC\TESTERC\bin\Release2\4\kalkf.pas
+Compilation Error
+
+
+C:\Users\programmer\source\repos\TESTERC\TESTERC\bin\Release2\info1.txt
+C:\Users\programmer\source\repos\TESTERC\TESTERC\bin\Release2\3\kalkf.pas
+Compilation Error
+
+
+C:\Users\programmer\source\repos\TESTERC\TESTERC\bin\Release2\info1.txt
+C:\Users\programmer\source\repos\TESTERC\TESTERC\bin\Release2\2\kalkf.pas
+Compilation Error
+
+
+C:\Users\programmer\source\repos\TESTERC\TESTERC\bin\Release2\info1.txt
+C:\Users\programmer\source\repos\TESTERC\TESTERC\bin\Release2\calc.cs
+Compilation Error
+
+
+C:\Users\programmer\source\repos\TESTERC\TESTERC\bin\Release2\info1.txt
+C:\Users\programmer\source\repos\TESTERC\TESTERC\bin\Release2\4\kalkf.pas
+Compilation Error
+
+
+C:\Users\programmer\source\repos\TESTERC\TESTERC\bin\Release2\info1.txt
+C:\Users\programmer\source\repos\TESTERC\TESTERC\bin\Release2\3\kalkf.pas
+Compilation Error
+
+
+C:\Users\programmer\source\repos\TESTERC\TESTERC\bin\Release2\info1.txt
+C:\Users\programmer\source\repos\TESTERC\TESTERC\bin\Release2\2\kalkf.pas
+Тест 1 пройдений 
+Тест 2 пройдений 
+Тест 3 пройдений 
+Тест 4 пройдений 
+
+
+
+C:\Users\programmer\source\repos\TESTERC\TESTERC\bin\Release2\info1.txt
+C:\Users\programmer\source\repos\TESTERC\TESTERC\bin\Release2\calc.cs
+Compilation Error
+
+
+C:\Users\programmer\source\repos\TESTERC\TESTERC\bin\Release2\info1.txt
+C:\Users\programmer\source\repos\TESTERC\TESTERC\bin\Release2\C#\calc.cs
+Compilation Error
+
+
+C:\Users\Arkasha\Desktop\MyClass\TESTERC\TESTERC\bin\Release2\info1.txt
+C:\Users\Arkasha\Desktop\MyClass\TESTERC\TESTERC\bin\Release2\4\kalkf.pas
+Compilation Error
+
+
+C:\Users\Arkasha\Desktop\MyClass\TESTERC\TESTERC\bin\Release2\info1.txt
+C:\Users\Arkasha\Desktop\MyClass\TESTERC\TESTERC\bin\Release2\3\kalkf.pas
+Compilation Error
+
+
+C:\Users\Arkasha\Desktop\MyClass\TESTERC\TESTERC\bin\Release2\info1.txt
+C:\Users\Arkasha\Desktop\MyClass\TESTERC\TESTERC\bin\Release2\2\kalkf.pas
+Тест 1 пройдений 
+Тест 2 пройдений 
+Тест 3 пройдений 
+Тест 4 пройдений 
+
+
+
+C:\Users\Arkasha\Desktop\MyClass\TESTERC\TESTERC\bin\Release2\info1.txt
+C:\Users\Arkasha\Desktop\MyClass\TESTERC\TESTERC\bin\Release2\calc.cs
+Compilation Error
+
+
+C:\Users\Arkasha\Desktop\MyClass\TESTERC\TESTERC\bin\Release2\info1.txt
+C:\Users\Arkasha\Desktop\MyClass\TESTERC\TESTERC\bin\Release2\C#\calc.cs
+Compilation Error
+
+
+C:\Users\Arkasha\Desktop\MyClass\TESTERC\TESTERC\bin\Release2\info1.txt
+C:\Users\Arkasha\Desktop\MyClass\TESTERC\TESTERC\bin\Release2\4\task1.pas
+Тест 1 пройдений 
+Тест 2 пройдений 
+Тест 3 пройдений 
+Тест 4 пройдений 
+
+
+
+C:\Users\Arkasha\Desktop\MyClass\TESTERC\TESTERC\bin\Release2\info1.txt
+C:\Users\Arkasha\Desktop\MyClass\TESTERC\TESTERC\bin\Release2\3\task1.pas
+Тест 1 не пройдений 
+Тест 2 не пройдений 
+Тест 3 не пройдений 
+Тест 4 не пройдений 
+
+
+
+C:\Users\Arkasha\Desktop\MyClass\TESTERC\TESTERC\bin\Release2\info1.txt
+C:\Users\Arkasha\Desktop\MyClass\TESTERC\TESTERC\bin\Release2\2\task1.pas
+Тест 1 пройдений 
+Тест 2 пройдений 
+Тест 3 пройдений 
+Тест 4 пройдений 
+
+
+

@@ -1,0 +1,15 @@
+C:\Users\programmer\source\repos\TESTERC\TESTERC\bin\Debug\TESTERC.exe.config
+C:\Users\programmer\source\repos\TESTERC\TESTERC\bin\Debug\TESTERC.exe
+C:\Users\programmer\source\repos\TESTERC\TESTERC\bin\Debug\TESTERC.pdb
+C:\Users\programmer\source\repos\TESTERC\TESTERC\obj\Debug\TESTERC.csprojResolveAssemblyReference.cache
+C:\Users\programmer\source\repos\TESTERC\TESTERC\obj\Debug\TESTERC.csproj.CoreCompileInputs.cache
+C:\Users\programmer\source\repos\TESTERC\TESTERC\obj\Debug\TESTERC.exe
+C:\Users\programmer\source\repos\TESTERC\TESTERC\obj\Debug\TESTERC.pdb
+C:\Users\Arkasha\Desktop\TESTERC\TESTERC\bin\Debug\TESTERC.exe.config
+C:\Users\Arkasha\Desktop\TESTERC\TESTERC\bin\Debug\TESTERC.exe
+C:\Users\Arkasha\Desktop\TESTERC\TESTERC\bin\Debug\TESTERC.pdb
+C:\Users\Arkasha\Desktop\TESTERC\TESTERC\obj\Debug\TESTERC.csproj.AssemblyReference.cache
+C:\Users\Arkasha\Desktop\TESTERC\TESTERC\obj\Debug\TESTERC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arkasha\Desktop\TESTERC\TESTERC\obj\Debug\TESTERC.csproj.CoreCompileInputs.cache
+C:\Users\Arkasha\Desktop\TESTERC\TESTERC\obj\Debug\TESTERC.exe
+C:\Users\Arkasha\Desktop\TESTERC\TESTERC\obj\Debug\TESTERC.pdb

@@ -1,0 +1,15 @@
+﻿To learn about increasing the verbosity of the NGen log files please see http://go.microsoft.com/fwlink/?linkid=210113
+01/10/2017 09:37:44.677 [1088]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /RuntimeWide /StopEvent:892
+01/10/2017 09:37:44.910 [1088]: Attempting to acquire task lock.
+01/10/2017 09:37:44.911 [1088]: Acquired task lock.
+01/10/2017 09:37:45.292 [3400]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe RemoveTaskDelayStartTrigger /LegacyServiceBehavior 
+01/10/2017 09:37:47.493 [3400]: ngen returning 0x00000000
+01/10/2017 09:37:47.496 [1088]: Not creating new native images due to disk space or quota limit
+01/10/2017 09:37:52.578 [1088]: Executing high priority queued items
+01/10/2017 09:37:52.589 [5804]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe ExecuteQueuedItems 2 /LegacyServiceBehavior 
+01/10/2017 09:37:53.344 [5804]: All compilation targets are up to date.
+01/10/2017 09:37:53.345 [5804]: ngen returning 0x00000000
+01/10/2017 09:37:53.347 [1088]: Finished high priority work.  Checking for new work added after we started
+01/10/2017 09:37:53.358 [4080]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe RemoveTaskBootTrigger /LegacyServiceBehavior 
+01/10/2017 09:37:53.740 [4080]: ngen returning 0x00000000
+01/10/2017 09:37:53.742 [1088]: High-priority NGen task completed successfully
